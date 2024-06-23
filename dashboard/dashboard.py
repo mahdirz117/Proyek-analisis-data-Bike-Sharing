@@ -5,7 +5,7 @@ import plotly.express as px
 
 
 # Memuat data dari URL CSV
-url = ""https://raw.githubusercontent.com/mahdirz117/Proyek-Analisis-Data---Belajar-Analisis-Data-dengan-Python/main/Bike-sharing-dataset/day.csv""
+url = "https://raw.githubusercontent.com/mahdirz117/Proyek-analisis-data-Bike-Sharing/main/dashboard/bike.csv"
 bike_df = pd.read_csv(url)
 
 # Judul aplikasi
